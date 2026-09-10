@@ -56,7 +56,7 @@ print(result)
 
 
 
-def get_stats(*numbers):
+def get_stats(*numbers): 
  largest = max(numbers)
  smallest = min(numbers)
  
