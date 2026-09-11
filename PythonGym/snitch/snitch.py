@@ -1,13 +1,3 @@
-#Hier entsteht nur ein kleines Projekt in Form einer "snitch - Liste" in der Schüler der CBW eingetragen werden, die vor 16 Uhr den Teams Call verlassen!!!
-#Diese Liste wird jeden tag über eine Input Funktion erweitert ( ich vermute hier eine append funktion für entweder eine normale liste, oder einer externen Datei in der die Liste angefertigt wird.)
-#Desweiteren wird ein Frontend benötigt, wie schon beim Einkaufsmenü, welches mehrere abfragen macht und tasten mit dem Menü interagieren lässt.
-#Es ist wünschenswert, dass pro eingabe auch eine Art Eingabebestätigung erfolgt. 
-#Jeweils Freitags kann man sich die Daten ausgeben lassen und zeigen lassen, wer prozentual am häufigsten vor 16 Uhr fehlt.
-#Man kann sogar darüber diskutieren, ob man nicht noch eine Reverseliste anfertigt, die zeigt, wer immer zu spät kommt.. und somit kann man mehrere Ergebisse in unterschiedlichen Verhältnissen ausgeben.
-#geheim top kandidat DaniSahne, Janina Riley, Maik Kasperle, Joachim Haacke, JHONNY "NOT THE KID" RAULEDER
-#perfekte addition: Uhrzeit und Datum zum jeweiligen Eintrag des Names machen und darstellen
-
-
 
 import datetime
 
