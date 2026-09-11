@@ -1,0 +1,1 @@
+print("Dies ist meine erste Übungsdatei!")
