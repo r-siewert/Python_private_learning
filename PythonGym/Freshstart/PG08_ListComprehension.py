@@ -30,7 +30,7 @@ print(result)
 print("=====================")
 
 numbers = [2, 5, 8, 11, 14, 17, 20]
-result = [number *5 for number in numbers if number % 2 == 0]
+result = [number * 5 for number in numbers if number % 2 == 0]
 print(result)
 
 print("=======================")
